@@ -67,11 +67,6 @@ namespace Matrix
             Console.WriteLine(a.oszlopOsszead(Convert.ToInt32(Console.ReadLine())));
 
             Console.ReadKey(); 
-            
-            // szeretem a faszt
-            public void r(){
-                r();
-            }
         }
     }
 }
