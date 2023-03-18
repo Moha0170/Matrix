@@ -53,6 +53,7 @@ namespace Matrix
             */
 
             // kitotunk a matrixbol  Top G-k leszunk
+            //szi bndek
 
 
 
